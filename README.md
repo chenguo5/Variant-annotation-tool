@@ -9,6 +9,6 @@ Must install snpEff software: http://pcingola.github.io/SnpEff/
 #### 2.	Execute the variant.cfg script
 #### 3.	Enter in the name of the variant file you want to analyze without including the .vcf extension. eg. for Challenge_data.vcf, input Challenge_data. It must be in the script directory
 #### 4.	Results are in the /output/ folder:
-    -  ${sample}.final.tsv file: 
-    -  ${sample}.annotated.vcf file: 
-    -  ${sample}.stats.html and ${sample}.stats.genes.txt files: Additional stats about the annotation are included in the 
+-  ${sample}.final.tsv file: 
+-  ${sample}.annotated.vcf file: 
+-  ${sample}.stats.html and ${sample}.stats.genes.txt files: Additional stats about the annotation are included in the 
